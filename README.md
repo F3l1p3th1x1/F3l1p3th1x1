@@ -24,5 +24,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    
+  </div>
  
-    ![Snake animation](https://github.com/F3l1p3th1x1/F3l1p3th1x1/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/F3l1p3th1x1/F3l1p3th1x1/blob/output/github-contribution-grid-snake.svg)
