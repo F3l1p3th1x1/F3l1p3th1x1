@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on IA
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on space projects
+- 👯 I’m looking to collaborate on Tests
 - 📫 How to reach me: fvicentini@pm.me
 - ⚡ Fun fact: I suffer from Anxiety and Panic and contour it, learning to program.
 
