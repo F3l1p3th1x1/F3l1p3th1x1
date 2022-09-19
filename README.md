@@ -26,5 +26,8 @@
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     
   </div>
- 
+  
+ <div>
+   
  ![Snake animation](https://github.com/F3l1p3th1x1/F3l1p3th1x1/blob/output/github-contribution-grid-snake.svg)
+  </div>
