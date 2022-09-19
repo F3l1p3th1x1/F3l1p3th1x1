@@ -10,6 +10,8 @@
 <div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F3l1p3th1x1&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F3l1p3th1x1&count_private=true)
+
 
 </div>
  <br>
