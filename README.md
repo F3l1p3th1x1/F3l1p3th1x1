@@ -9,7 +9,6 @@
 <div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=F3l1p3th1x1)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=F3l1p3th1x1&count_private=true)
 
 
 
