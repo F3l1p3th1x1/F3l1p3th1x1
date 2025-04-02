@@ -7,8 +7,7 @@
 - ⚡ Fun fact: I suffer from Anxiety and Panic and contour it, learning to program.
 
 <div>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=F3l1p3th1x1)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F3l1p3th1x1&show_icons=true&theme=radical)
 
 
 
